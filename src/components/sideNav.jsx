@@ -1,7 +1,7 @@
 import { AnalyticsOutlined, Dashboard, SourceOutlined, StyleOutlined } from "@mui/icons-material";
 import { Avatar, Box, Typography, useTheme } from "@mui/material";
 import { Sidebar,Menu,MenuItem } from "react-pro-sidebar";
-import { useProSidebar } from 'react-pro-sidebar'
+import { useProSidebar } from 'react-pro-sidebar';
 import { Link, useLocation } from "react-router-dom";
 
 const SideNav = () => {
